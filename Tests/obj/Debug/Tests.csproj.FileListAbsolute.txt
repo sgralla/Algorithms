@@ -1,0 +1,12 @@
+/Users/sepp/RiderProjects/Algorithms/Tests/bin/Debug/Tests.exe
+/Users/sepp/RiderProjects/Algorithms/Tests/bin/Debug/Tests.pdb
+/Users/sepp/RiderProjects/Algorithms/Tests/bin/Debug/MathAlgorithms.dll
+/Users/sepp/RiderProjects/Algorithms/Tests/bin/Debug/MathAlgorithms.pdb
+/Users/sepp/RiderProjects/Algorithms/Tests/obj/Debug/Tests.csprojResolveAssemblyReference.cache
+/Users/sepp/RiderProjects/Algorithms/Tests/obj/Debug/Tests.csproj.CoreCompileInputs.cache
+/Users/sepp/RiderProjects/Algorithms/Tests/obj/Debug/Tests.exe
+/Users/sepp/RiderProjects/Algorithms/Tests/obj/Debug/Tests.pdb
+/Users/sepp/RiderProjects/Algorithms/Tests/bin/Debug/SortAlgorithms.dll
+/Users/sepp/RiderProjects/Algorithms/Tests/bin/Debug/HelperFunctions.dll
+/Users/sepp/RiderProjects/Algorithms/Tests/bin/Debug/SortAlgorithms.pdb
+/Users/sepp/RiderProjects/Algorithms/Tests/bin/Debug/HelperFunctions.pdb

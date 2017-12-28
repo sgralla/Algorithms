@@ -1,0 +1,6 @@
+/Users/sepp/RiderProjects/Algorithms/HelperFunctions/bin/Debug/HelperFunctions.dll
+/Users/sepp/RiderProjects/Algorithms/HelperFunctions/bin/Debug/HelperFunctions.pdb
+/Users/sepp/RiderProjects/Algorithms/HelperFunctions/obj/Debug/HelperFunctions.csprojResolveAssemblyReference.cache
+/Users/sepp/RiderProjects/Algorithms/HelperFunctions/obj/Debug/HelperFunctions.csproj.CoreCompileInputs.cache
+/Users/sepp/RiderProjects/Algorithms/HelperFunctions/obj/Debug/HelperFunctions.dll
+/Users/sepp/RiderProjects/Algorithms/HelperFunctions/obj/Debug/HelperFunctions.pdb

@@ -1,0 +1,6 @@
+/Users/sepp/RiderProjects/Algorithms/Math/bin/Debug/MathAlgorithms.dll
+/Users/sepp/RiderProjects/Algorithms/Math/bin/Debug/MathAlgorithms.pdb
+/Users/sepp/RiderProjects/Algorithms/Math/obj/Debug/Math.csprojResolveAssemblyReference.cache
+/Users/sepp/RiderProjects/Algorithms/Math/obj/Debug/Math.csproj.CoreCompileInputs.cache
+/Users/sepp/RiderProjects/Algorithms/Math/obj/Debug/MathAlgorithms.dll
+/Users/sepp/RiderProjects/Algorithms/Math/obj/Debug/MathAlgorithms.pdb

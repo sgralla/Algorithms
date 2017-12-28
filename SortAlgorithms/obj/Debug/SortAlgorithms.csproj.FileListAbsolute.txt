@@ -1,0 +1,8 @@
+/Users/sepp/RiderProjects/Algorithms/SortAlgorithms/bin/Debug/SortAlgorithms.dll
+/Users/sepp/RiderProjects/Algorithms/SortAlgorithms/bin/Debug/SortAlgorithms.pdb
+/Users/sepp/RiderProjects/Algorithms/SortAlgorithms/bin/Debug/HelperFunctions.dll
+/Users/sepp/RiderProjects/Algorithms/SortAlgorithms/bin/Debug/HelperFunctions.pdb
+/Users/sepp/RiderProjects/Algorithms/SortAlgorithms/obj/Debug/SortAlgorithms.csprojResolveAssemblyReference.cache
+/Users/sepp/RiderProjects/Algorithms/SortAlgorithms/obj/Debug/SortAlgorithms.csproj.CoreCompileInputs.cache
+/Users/sepp/RiderProjects/Algorithms/SortAlgorithms/obj/Debug/SortAlgorithms.dll
+/Users/sepp/RiderProjects/Algorithms/SortAlgorithms/obj/Debug/SortAlgorithms.pdb
